@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CityJSON
-========
+CityJSON v0.1
+=============
  
 CityJSON is a format for encoding a subset of the `CityGML <https://www.citygml.org>`_ data model using JavaScript Object Notation (`JSON <http://json.org>`_).
 A CityJSON file represents both the geometry and the semantics of the city features of a given area, eg buildings, roads, rivers, the vegetation, and the city furniture.
