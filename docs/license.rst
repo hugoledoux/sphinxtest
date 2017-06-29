@@ -4,6 +4,8 @@ License
 
 yo yo yo
 
+:download:`example.json <../stuff/example.json>`
+
 ------
 Ledoux
 ------
